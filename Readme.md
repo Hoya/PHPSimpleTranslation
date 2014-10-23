@@ -29,6 +29,8 @@ File format should look like this:
 
 ```
 "Default text" = "Translated text";
+"Some more text to be translated" = "More translated text";
+...
 ```
 
 You can add as many languages as you want.
