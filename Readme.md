@@ -8,7 +8,7 @@ I know that there are a ton of ways to localize strings out there. I have a real
 
 #### Usage
 
-Just include and load the class, set your target language, and use the 'localizedString()' function to translate your strings. If a translation isn't available, 'localizedString()' will just return the default string that was inserted.
+Include and load the class, set your target language, and use the 'localizedString()' function to translate your strings. If a translation isn't available, 'localizedString()' will just return the default string that was inserted.
 
 ```
 // Include and load the class
