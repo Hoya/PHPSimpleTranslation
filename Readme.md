@@ -4,7 +4,7 @@ PHPSimpleTranslation is a dead easy, super simple drop in translation class for 
 
 #### Why I built this
 
-I know that there are a ton of ways to localize strings out there. I have a real simple, static placeholder webpage that I wanted localized. I looks and gettext and thought of maybe using some framework but it's overkill for just one static page. I got lazy and just started coding my own thing.
+I know that there are a ton of ways to localize strings out there. I have a real simple, static placeholder webpage that I wanted localized. I looked at gettext and thought of maybe using some framework but it's overkill for just one static page. I got lazy and just started coding my own thing.
 
 #### Usage
 
